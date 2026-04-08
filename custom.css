@@ -1,0 +1,26 @@
+.display-1 {
+    font-family: gotham;
+    text-transform: uppercase;
+    font-size: 4em;
+    color: #036;
+}
+
+h2 {
+    font-family: georgia;
+}
+
+h3 {font-size: 500%;}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 8rem;
+    height: 8rem;
+}
+
+.toast-header {
+    color: red;
+}
+
+.gallery-display {
+    background-color: #eee;
+}
